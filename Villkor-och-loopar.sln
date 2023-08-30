@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Villkor-och-loopar", "Villkor-och-loopar\Villkor-och-loopar.csproj", "{985AA2AB-E584-4562-98ED-243324C49819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise", "..\..\Excercise\Excercise\Excercise.csproj", "{DEDB82A2-7D55-440B-BA9C-A5323536E386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985AA2AB-E584-4562-98ED-243324C49819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985AA2AB-E584-4562-98ED-243324C49819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985AA2AB-E584-4562-98ED-243324C49819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985AA2AB-E584-4562-98ED-243324C49819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDB82A2-7D55-440B-BA9C-A5323536E386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDB82A2-7D55-440B-BA9C-A5323536E386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDB82A2-7D55-440B-BA9C-A5323536E386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDB82A2-7D55-440B-BA9C-A5323536E386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9945EC-5E60-432D-9028-63273401FEF1}
+	EndGlobalSection
+EndGlobal
